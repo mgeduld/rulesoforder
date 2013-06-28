@@ -2,7 +2,9 @@
 
 I, Marcus Geduld, swear to abide by the following rules to the best of my ability, because I believe they lead to civil, intelligent discussion in which the goal is to seek truth, rather than to win points, mock, humiliate or dominate—all of which I consider to be ignoble wastes of time. Please watch me for hypocrisy. If you catch me violating a rule, tell me. E.g. "You just violated rule number 3!"
 
-##1. I will never engage in ad hominem attacks. Ad hominems attacks attack a person instead of his claims. 
+##1. I will never engage in ad hominem attacks. 
+
+Ad hominems attacks attack a person instead of his claims. 
 
 It's pretty easy to understand that "You're an asshole!" doesn't add anything to an argument except bile, but most ad hominem attacks are subtler than that. They ride piggyback on legitimate points.
 
@@ -26,7 +28,7 @@ After I leave, the insulter will almost always claim victory. I need to live wit
 
 Optional: I can issue a warning without leaving. It's fine if I leave after the first insult. But sometimes it's worth staying long enough to say that I will only stick around if there are no more. People are imperfect; they get defensive despite their best intentions to stay calm. (It happens to me!) Sometimes an insult will slip out. If I feel I am up to it, I can give the insulter a chance to apologize, and I can accept their apologies with grace. If, after that, he insult me a second time, I should opt out.
 
-##3. I will never say, "You can take anything to extremes," because that's never a meaningful answer. 
+##3. I will never dismiss a claim with "You can take anything to extremes..." 
 
 When someone says, "If we take your logic to extremes, we wind up with Nazi Germany," there are three meaningful responses:
 
@@ -36,7 +38,9 @@ ii. "You're right. You've made me realize that I need to qualify my argument. I 
 
 iii. "You're right. I didn't fully considered the ramifications of my argument."
 
-##4. When conceding a point, I must always do so fully and openly. I am forbidden from mixing concessions with changing the subject.
+##4. When conceding a point, I must always do so fully and openly. 
+
+I am forbidden from mixing concessions with changing the subject.
 
 Example of the wrong way to do it:
 
@@ -50,7 +54,9 @@ Me: Okay, not that, but my point is...
 
 Me: You know, you're right. I said you should never force kids to do anything, but now that you bring up the dangers of playing in traffic, I realize that I didn't really think things through. You're right about that. (Pause.) Okay, let me try to rephrase what I believe. You have a point, but I don't think my argument is completely wrong. I just need to refine it. You see...
 
-##5. I will either stay in a discussion or bow out gracefully. It's never someone else's fault that I'm leaving. I will never leave by saying something like, "Since you can't discuss this rationally, I'm done!" No parting digs. 
+##5. I will either stay in a discussion or bow out gracefully. 
+
+It's never someone else's fault that I'm leaving. I will never leave by saying something like, "Since you can't discuss this rationally, I'm done!" No parting digs. 
 
 It's okay to say, "I have a policy against taking part in flame wars, but it's also hard for me to resist insulting you the way you're insulting me. So rather than violating my principles, I'm going to leave." It's also perfectly fine to say, "You know. I'm tired, and I just don't feel like discussing this any more." I must separate my leave-taking remark from my argumentation. It's never okay to use a good-bye to get one last dig in, e.g. "I don't have all day to hang out here and argue with you." (Which implies that you are petty, while I am a busy, important person with *real* responsibilities. It's an underhanded way of saying, "Get a life!")
 
@@ -66,13 +72,15 @@ I will never begins a sentence with "People like you always say..." It's fine, a
 
 If my message is "you're really stupid," then I'm engaging in an ad hominem attack. (See Rule 1.) If my point is "School is a good thing," then I need to make that claim and support it. 
 
-##8. I am not allowed to fall back on bad behavior when all else has failed. 
+##8. I must never resort to bad behavior when all else has failed. 
 
 "You know what? I tried reasoning with you. I explained myself to you really clearly. In fact, I explain myself *four* TIMES. You refuse to listen. You know what? At this point ... fuck you!" 
 
 I must either stay in the discussion and keep explaining myself clearly or opt out gracefully. (See Rule 5.)
 
-##9. I will never say, "You're missing my point," "You're still not hearing me," or any variation of those phrases. 
+##9. I will never say, "You're missing my point..." 
+
+Or "You're still not hearing me," "You don't get it," or any variation of those phrases. 
 
 No matter how clear I think I'm being, if the other person isn't responding as if he understands, there are two possibilities: either he's not thinking clearly or I'm not speaking clearly. 
 
@@ -84,15 +92,15 @@ If it seems as if the person I'm talking to is missing my point, I should explai
 
 I get bonus points if, instead of saying, "You're missing my point," I say, "Maybe I wasn't being clear. How about we look at it this way..." A little humility goes a long way.
 
-##10. If I feel frustrated and need to vent, I will either leave the discussion and vent elsewhere, or I will stay and discuss my feelings without blaming anyone for them. 
+##10. If I'm frustrated and need to vent, I must do so without accusations. 
 
-If I blame someone (even if it's "his fault") my goal has changed from truth-seeking to something else—maybe to "righting a wrong" or criticizing. Sometimes that's inevitable. But then I should be fair and make my game-change clear: "You know, I need to stop for a minute. I can't go on discussing the Middle East situation right now, because I'm hurt by what you said..."
+I can vent elsewhere, or I can stay and discuss my feelings without blaming anyone for them (even if it's "his fault"). When I start placing blame, my goal has changed from truth-seeking to something else—maybe to "righting a wrong" or criticizing. Sometimes that's inevitable. But then I should be fair and make my game-change clear: "You know, I need to stop for a minute. I can't go on discussing the Middle East situation right now, because I'm hurt by what you said..."
 
 I'm allowed to say, "I'm really frustrated right now." I'm not allowed to engage in any of the bad behavior (ad hominem attacks, sarcasm...) outlined in these rules.
 
-##11. I will never nitpick at minor points that have nothing to do with the main thrust of someone's argument. 
+##11. I will never nitpick at someone's minor points. 
 
-If he says, "You think the Internet is perfect? That's what people said in the 1920s about the Titanic," it derails the discussion for me to respond, "The Titanic sank in 1912!" He was making a point about the hubris, and his minor mistake doesn't affect his argument. My goal is to understand his key claims—and maybe to agree or disagree with them—not to win gotcha points. 
+If someone says, "You think the Internet is perfect? That's what people said in the 1920s about the Titanic," it derails the discussion for me to respond, "The Titanic sank in 1912!" He was making a point about the hubris, and his minor mistake doesn't affect his argument. My goal is to understand his key claims—and maybe to agree or disagree with them—not to win gotcha points. 
 
 (It's okay, at a time when it won't derail the conversation, to say, "Oh. Just a note. The Titanic sank in 1912." Conversational ninjas can even say this immediately, as long as they phrase it like similarly to this, "Well, the Titanic sank in 1912, but I take your point that...")
 
@@ -106,14 +114,17 @@ Sometimes humans have to withdraw and lick their wounds. It's honorable to take 
 
 If I choose to continue, I must say "You know, I just realized I insulted you" (or whatever I did.) "I'm sorry. That was wrong of me." I must pause after doing that, making sure to never combine an apology with a change of subject, or it will sound like I'm fleeing from the apology. I should never say, "I'm sorry I attacked you, but my point is..." Instead, I should take a deep breath, find some humility, look the other person in the eye, and say, "I was wrong." Full Stop. Then let him speak. After he's had a turn to respond, I am free to continue making my argument.
 
-##13. When asked a question, I will respond in one of three ways: if I don't know the answer, I will say, "I don't know." If I know the answer, I will give it. Unless answering makes me uncomfortable or puts me in peril (e.g. I'd lose my job if I answered), in which case I will politely opt out by saying, "Sorry, but I'd prefer not to answer."
+##13. When asked a question, I will respond in one of three ways. 
+
+If I don't know the answer, I will say, "I don't know." If I know the answer, I will give it. Unless answering makes me uncomfortable or puts me in peril (e.g. I'd lose my job if I answered), in which case I will politely opt out by saying, "Sorry, but I'd prefer not to answer."
 
 Asking questions (seeking knowledge) and providing answers (teaching) are two of the noblest and most important human activities. Though there are cases where I can opt out of answering, in general I should answer any question.
 
 By choosing to participate in a conversation, I signal my willingness to answer. If I'm not willing to answer questions any more, I need to leave. *Staying but refusing to answer is never an option*.
 
+##14. I will never hedge my bets.
 
-##14. I will never hedge my bets by both making an argument and predicting my audience won't agree with it or won't pay attention to it. 
+I must not both making an argument and predict my audience won't agree with it or won't pay attention to it. 
 
 "There's probably no point in me saying this, but..."
 
@@ -125,7 +136,9 @@ That may be a passive-aggressive attempt to shame my target into reading the art
 
 In the end, all I can honorably do is present evidence. Others have the right to ignore it, whether I like that or not. And if I dislike the way they interact with my evidence, I can always leave the discussion.
 
-##15. If the support for my claim is "just a hunch," "an educated guess," or "just the way it is," I must say so.
+##15. If will admit that my "evidence" is "just a hunch." 
+
+If it's "an educated guess," "just the way it is," or "simply true," I will not pretend it's an objective, provable fact.
 
 I don't have to prefix all my opinions with "This is just my opinion," especially if that's clear from context, but I should be overt about it when there's a risk of confusion, and I should certainly admit if questioned that I have no evidence aside from "being sure." 
 
@@ -133,7 +146,9 @@ Everyone has values or axioms, and I am allowed to have mine. I just need to mak
 
 I am never allowed to masquerade my values with phrases like, "Surely, all people are good," or "As we all know, education is important."
 
-#16. I should avoid replying the (generally) written arguments (e.g. web-forum posts) that are riddled with errors by annotating them. In the Annotated Response, I quote from the text, explain the error, quote some more, explain the error in that bit, quote the *more*, explain *that* error, and so on. The result looks something like this:
+#16. I won't annotate.
+
+I should avoid replying to (generally) written arguments (e.g. web-forum posts) that are riddled with errors by annotating them. In the Annotated Response, I quote from the text, explain the error, quote some more, explain the error in that bit, quote the *more*, explain *that* error, and so on. The result looks something like this:
 
 "Blah blah blah blah blah."
 
@@ -169,7 +184,9 @@ Here are some more versions of it:
 
 "With all your experience, I'm know you'll agree with me that..."
 
-#18. I won't be a Sneaky Politician. When discussing a topic, I must either feel secure that I have no agenda—that I am genuinely ready to be swayed by the other person's logic—or, if I have a bias, I must admit that upfront (or as soon as I become aware of it). I must not hide my bias.
+#18. I won't be a Sneaky Politician. 
+
+When discussing a topic, I must either feel secure that I have no agenda—that I am genuinely ready to be swayed by the other person's logic—or, if I have a bias, I must admit that upfront (or as soon as I become aware of it). I must not hide my bias.
 
 Sneaky Politicians (or evangelists) want to promote some point of view. Which would be fine if he disclosed it. The truth is, there are a various levels of bias. Fred might be unsure about his feelings towards "Star Trek"; Mary might have a distaste for it, but feel open to being convinced it's actually a good show; Bill might hate it and want to prove to everyone that it's terrible. Those are all acceptable stances, as long as they're made clear.
 
