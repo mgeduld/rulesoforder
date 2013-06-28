@@ -146,7 +146,7 @@ Everyone has values or axioms, and I am allowed to have mine. I just need to mak
 
 I am never allowed to masquerade my values with phrases like, "Surely, all people are good," or "As we all know, education is important."
 
-#16. I won't annotate.
+##16. I won't annotate.
 
 I should avoid replying to (generally) written arguments (e.g. web-forum posts) that are riddled with errors by annotating them. In the Annotated Response, I quote from the text, explain the error, quote some more, explain the error in that bit, quote the *more*, explain *that* error, and so on. The result looks something like this:
 
@@ -168,7 +168,7 @@ He may respond by zeroing in on one of two of my many critiques (because he prob
 
 The trick is to stop trying to fight all battles at once. If the target has made 30 errors, I should either focus on one or two that interest me or try to uncover some common theme—some lower-level foundation or higher-level abstraction that allows me to respond in a gestalt-ish way, rather than in a point-by-point exegesis.
 
-#17. I am never allowed to employ left-handed or manipulative compliments.
+##17. I am never allowed to employ left-handed or manipulative compliments.
 
 "Surely someone as smart as you..."
 
@@ -184,7 +184,7 @@ Here are some more versions of it:
 
 "With all your experience, I'm know you'll agree with me that..."
 
-#18. I won't be a Sneaky Politician. 
+##18. I won't be a Sneaky Politician. 
 
 When discussing a topic, I must either feel secure that I have no agenda—that I am genuinely ready to be swayed by the other person's logic—or, if I have a bias, I must admit that upfront (or as soon as I become aware of it). I must not hide my bias.
 
