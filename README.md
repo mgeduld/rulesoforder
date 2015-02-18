@@ -1,6 +1,6 @@
 #Marcus's Rules of Order for Himself (Which He Invites You to Follow)
 
-I, Marcus Geduld, swear to abide by the following rules to the best of my ability, because I believe they lead to civil, intelligent discussion in which the goal is to seek truth rather than to win points, mock, humiliate, or dominate—all of which I consider to be ignoble wastes of time. Please watch me for hypocrisy. If you catch me violating a rule, tell me. E.g. "You just violated rule number three!"
+I, Marcus Geduld, swear to abide by the following rules to the best of my ability, because I believe they lead to civil, intelligent discussion in which the goal is to seek truth rather than to win points, mock, humiliate, or dominate—all of which I consider to be ignoble wastes of time. Please watch me for hypocrisy. If you catch me violating a rule, tell me. e.g. "You just violated rule number three!"
 
 I *will* violate these rules at times—maybe often, maybe every day. They are ideals. I must read through them at least once a month, to make sure I keep them in mind. 
 
