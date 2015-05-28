@@ -114,7 +114,7 @@ I must separate my leave-taking remark from my argumentation. It's never okay to
 
 I may not say say, "You clearly think you're always right" unless the person I'm talking to has said, "I am always right."
 
-I will never begins a sentence with "People like you always say..." It's fine, acceptable, and good to ask *questions* about mindset. "You say you're a Republican? The republicans I know want lower taxes. Do you want lower taxes?"
+I will never begin a sentence with "People like you always say..." It's fine, acceptable, and good to ask *questions* about mindset. "You say you're a Republican? The republicans I know want lower taxes. Do you want lower taxes?"
 
 I will never use an indvidual person as a proxy for some group. I may not assume a self-proclaimed republican is anti gay marriage unless he has said he's anti gay marraige. (Of course, I can ask him if he is!) There's no such thing for me as "You people" or "people like you."
 
