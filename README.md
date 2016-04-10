@@ -6,7 +6,7 @@ I *will* violate these rules at times—maybe often, maybe every day. They are i
 
 ##1. I must never engage in ad hominem attacks. 
 
-Ad hominems attacks attack a person instead of his claims. 
+Ad hominem attacks attack a person instead of his claims. 
 
 It's pretty easy to understand that "You're an asshole!" doesn't add anything to an argument except bile, but most ad hominem attacks are subtler than that. They piggyback on legitimate points.
 
@@ -52,7 +52,7 @@ ii. "You're right. You've made me realize that I need to qualify my argument. I 
 
 iii. "You're right. I didn't fully considered the ramifications of my argument."
 
-I will try my hardest to play along with proposed hypotheticals, rathern than simply dismissing them because they're not real. If they seem flawed, I will try to help correct them. 
+I will try my hardest to play along with proposed hypotheticals, rather than simply dismissing them because they're not real. If they seem flawed, I will try to help correct them. 
 
 Example of what *not* to do:
 
@@ -88,7 +88,7 @@ ME: Okay, not that, but my point is...
 
 ME: You know, you're right. I said you should never force kids to do anything, but now that you bring up the dangers of playing in traffic, I realize that I didn't really think things through. You're right about that. (Pause.) Okay, let me try to rephrase what I believe. You have a point, but I don't think my argument is completely wrong. I just need to refine it. You see...
 
-I am also forbidden to simply switch, without comment, to a second argumnet when my opponent has toppled the first. 
+I am also forbidden to simply switch, without comment, to a second argument when my opponent has toppled the first. 
 
 What I can't do:
 
@@ -98,9 +98,9 @@ SOMEONE: That's not true. I learned Algebra almost entirely from homework. I nev
 
 ME: The thing is, schools hold kids captive all day. It's unfair for them to also make demands on the nighttime. 
 
-Instead of just plowing on, I should have responded to SOMEONE's objection. Before continuing, I should have either conceided his point or explained why it was wrong. 
+Instead of just plowing on, I should have responded to SOMEONE's objection. Before continuing, I should have either conceded his point or explained why it was wrong. 
 
-This boils done to not entering a discussion with the goal of winning no matter what. I must, at all times, be open to being wrong in part or whole. I should not simply keep vollying with arguments until one of them hits the target, ignoring all that fail.
+This boils done to not entering a discussion with the goal of winning no matter what. I must, at all times, be open to being wrong in part or whole. I should not simply keep volleying with arguments until one of them hits the target, ignoring all that fail.
 
 ##5. I must either stay in a discussion or bow out gracefully. 
 
@@ -116,7 +116,7 @@ I may not say say, "You clearly think you're always right" unless the person I'm
 
 I will never begins a sentence with "People like you always say..." It's fine, acceptable, and good to ask *questions* about mindset. "You say you're a Republican? The republicans I know want lower taxes. Do you want lower taxes?"
 
-I will never use an indvidual person as a proxy for some group. I may not assume a self-proclaimed republican is anti gay marriage unless he has said he's anti gay marraige. (Of course, I can ask him if he is!) There's no such thing for me as "You people" or "people like you."
+I will never use an individual person as a proxy for some group. I may not assume a self-proclaimed republican is anti gay marriage unless he has said he's anti gay marriage. (Of course, I can ask him if he is!) There's no such thing for me as "You people" or "people like you."
 
 Each time I'm tempted to say, "You think...," "You've claimed...," or "You clearly believe...," I will pause, take a deep breath, and ask myself, "Did he actually make that claim or implication? When?" When in doubt, I'm best of asking a question: "Do you believe...?"
 
@@ -265,7 +265,7 @@ See Rule 4. If I concede a point, I must always fully and openly concede it. I a
 
 * * *
 
-##Miscellanious Notes and Tips
+##Miscellaneous Notes and Tips
 
 ###Sarcastic and Biting Phrases I'm Forbidden from Using:
 
