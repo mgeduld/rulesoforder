@@ -38,7 +38,7 @@ When insulted, I have two honorable options: (1) ignore the insult and just resp
 
 After I leave, the insulter will almost always claim victory. I need to live with that. To him, the whole point of debate is for one person to win and the other to lose. I must remember that my goals are to seek truth, to explain my position, and to learn. We're not playing the same game. It's okay for him win his game; it's not my game. 
 
-Optional: I can issue a warning without leaving. It's fine to leave after the first insult, but sometimes I find it worth haning in there a little longer, making it clear that I'll leave if the insults continue. People are imperfect; they get defensive despite their best intentions to keep calm. (It happens to me!) Sometimes an insult will slip out. If I feel I am up to it, I can give the insulter a chance to apologize, and I can accept his apologies with grace. If, after that, he insult me a second time, I should opt out.
+Optional: I can issue a warning without leaving. It's fine to leave after the first insult, but sometimes I find it worth hanging in there a little longer, making it clear that I'll leave if the insults continue. People are imperfect; they get defensive despite their best intentions to keep calm. (It happens to me!) Sometimes an insult will slip out. If I feel I am up to it, I can give the insulter a chance to apologize, and I can accept his apologies with grace. If, after that, he insult me a second time, I should opt out.
 
 I've found that some people simply lock into a framework in which their default is to insult, especially on the web, where they've so often been insulted. Sometimes a gentle reminder shifts them out of that mode.
 
