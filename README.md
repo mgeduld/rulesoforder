@@ -263,6 +263,40 @@ I must never act like Bill.
 
 See Rule 4. If I concede a point, I must always fully and openly concede it. I am never allowed to mix conceding a point with changing the subject.
 
+## 19. I must never use another person as a "debate prop" without his overt consent. 
+
+If I ever decide that "the point of a debate is not to convince the person I'm talking to; it's to convince audience members who might be on the fence," I may only participate in such debates if ...
+
+===
+
+1. The person I'm' debating has given you written or verbal acknowledgment that he sees the interaction as a debate. 
+
+It's not good enough to assume he thinks of it that way, just because he's disagreeing with me or citing evidence to prove what I believe is his point. It's possible, even if he seems to be debating to me, he thinks we're having a discussion. Rather than wanting to win or change my mind, he may just be vigorously explaining why be believes as he does and questioning me to try to understand my point-of-view. He may be very open to being wrong or having his mind changed. 
+
+Even if he's "obviously" debating, he may be unaware of it. I need to have honest, above-board, conscious interactions with people. 
+
+2. The person you're debating must acknowledge he agrees with me that the purpose of the debate is to convince audience members who might be on the fence. I and my debate partner must be collaborating together towards that end, or I'm not allowed to debate for that purpose. 
+
+(Here's a script I can use: "I don't think either of us is likely to change his or the other person's mind, but would you like to debate this, anyway, so that 3rd parties can learn from it?") 
+
+I *can* debate in order to change the mind of the person I'm debating if he has given me written or verbal acknowledgment that he views the interaction as a debate. See point #1, above.
+
+===
+
+I am not allowed to use another person (without his knowledge and consent) as a prop or tool in a performance for an audience. 
+
+I must go into online interactions with the default interpretation that the person I'm talking to assumes I'm having a direct interaction with *him* because I care about his views. 
+
+I may not allowed violate these rules if the person I'm debating is "loathsome" and "doesn't deserve my respect." 
+
+I am not allowed to violate these rules if the person I'm debating disrespects me or people I care about. I must take the high road. 
+
+As a general rule, unless a person agrees to be a prop or a tool, I must treat him as an individual human being, interacting with him person-to-person. 
+
+If I realize I haven't done that, I must apologize, even if I'm right in the debate. Even if the other person is "loathsome" and doesn't apologize for the bad things *he* does.
+
+---
+
 * * *
 
 ##Miscellanious Notes and Tips
