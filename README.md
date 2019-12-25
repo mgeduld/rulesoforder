@@ -1,12 +1,12 @@
 #Marcus's Rules of Order for Himself (Which He Invites You to Follow)
 
-I, Marcus Geduld, swear to abide by the following rules to the best of my ability, because I believe they lead to civil, intelligent discussion in which the goal is to seek truth rather than to win points, mock, humiliate, or dominate—all of which I consider to be ignoble wastes of time. Please watch me for hypocrisy. If you catch me violating a rule, tell me. E.g. "You just violated rule number three!"
+I, Marcus Geduld, swear to abide by the following rules to the best of my ability, because I believe they lead to civil, intelligent discussion in which the goal is to seek truth rather than to win points, mock, humiliate, or dominate—all of which I consider to be ignoble wastes of time. Please watch me for hypocrisy. If you catch me violating a rule, tell me. e.g. "You just violated rule number three!"
 
 I *will* violate these rules at times—maybe often, maybe every day. They are ideals. I must read through them at least once a month, to make sure I keep them in mind. 
 
 ##1. I must never engage in ad hominem attacks. 
 
-Ad hominems attacks attack a person instead of his claims. 
+Ad hominem attacks attack a person instead of his claims. 
 
 It's pretty easy to understand that "You're an asshole!" doesn't add anything to an argument except bile, but most ad hominem attacks are subtler than that. They piggyback on legitimate points.
 
@@ -38,7 +38,7 @@ When insulted, I have two honorable options: (1) ignore the insult and just resp
 
 After I leave, the insulter will almost always claim victory. I need to live with that. To him, the whole point of debate is for one person to win and the other to lose. I must remember that my goals are to seek truth, to explain my position, and to learn. We're not playing the same game. It's okay for him win his game; it's not my game. 
 
-Optional: I can issue a warning without leaving. It's fine to leave after the first insult, but sometimes I find it worth haning in there a little longer, making it clear that I'll leave if the insults continue. People are imperfect; they get defensive despite their best intentions to keep calm. (It happens to me!) Sometimes an insult will slip out. If I feel I am up to it, I can give the insulter a chance to apologize, and I can accept his apologies with grace. If, after that, he insult me a second time, I should opt out.
+Optional: I can issue a warning without leaving. It's fine to leave after the first insult, but sometimes I find it worth hanging in there a little longer, making it clear that I'll leave if the insults continue. People are imperfect; they get defensive despite their best intentions to keep calm. (It happens to me!) Sometimes an insult will slip out. If I feel I am up to it, I can give the insulter a chance to apologize, and I can accept his apologies with grace. If, after that, he insult me a second time, I should opt out.
 
 I've found that some people simply lock into a framework in which their default is to insult, especially on the web, where they've so often been insulted. Sometimes a gentle reminder shifts them out of that mode.
 
@@ -52,7 +52,7 @@ ii. "You're right. You've made me realize that I need to qualify my argument. I 
 
 iii. "You're right. I didn't fully considered the ramifications of my argument."
 
-I will try my hardest to play along with proposed hypotheticals, rathern than simply dismissing them because they're not real. If they seem flawed, I will try to help correct them. 
+I will try my hardest to play along with proposed hypotheticals, rather than simply dismissing them because they're not real. If they seem flawed, I will try to help correct them. 
 
 Example of what *not* to do:
 
@@ -88,7 +88,7 @@ ME: Okay, not that, but my point is...
 
 ME: You know, you're right. I said you should never force kids to do anything, but now that you bring up the dangers of playing in traffic, I realize that I didn't really think things through. You're right about that. (Pause.) Okay, let me try to rephrase what I believe. You have a point, but I don't think my argument is completely wrong. I just need to refine it. You see...
 
-I am also forbidden to simply switch, without comment, to a second argumnet when my opponent has toppled the first. 
+I am also forbidden to simply switch, without comment, to a second argument when my opponent has toppled the first. 
 
 What I can't do:
 
@@ -98,9 +98,9 @@ SOMEONE: That's not true. I learned Algebra almost entirely from homework. I nev
 
 ME: The thing is, schools hold kids captive all day. It's unfair for them to also make demands on the nighttime. 
 
-Instead of just plowing on, I should have responded to SOMEONE's objection. Before continuing, I should have either conceided his point or explained why it was wrong. 
+Instead of just plowing on, I should have responded to SOMEONE's objection. Before continuing, I should have either conceded his point or explained why it was wrong. 
 
-This boils done to not entering a discussion with the goal of winning no matter what. I must, at all times, be open to being wrong in part or whole. I should not simply keep vollying with arguments until one of them hits the target, ignoring all that fail.
+This boils done to not entering a discussion with the goal of winning no matter what. I must, at all times, be open to being wrong in part or whole. I should not simply keep volleying with arguments until one of them hits the target, ignoring all that fail.
 
 ##5. I must either stay in a discussion or bow out gracefully. 
 
@@ -116,7 +116,7 @@ I may not say say, "You clearly think you're always right" unless the person I'm
 
 I will never begins a sentence with "People like you always say..." It's fine, acceptable, and good to ask *questions* about mindset. "You say you're a Republican? The republicans I know want lower taxes. Do you want lower taxes?"
 
-I will never use an indvidual person as a proxy for some group. I may not assume a self-proclaimed republican is anti gay marriage unless he has said he's anti gay marraige. (Of course, I can ask him if he is!) There's no such thing for me as "You people" or "people like you."
+I will never use an individual person as a proxy for some group. I may not assume a self-proclaimed republican is anti gay marriage unless he has said he's anti gay marriage. (Of course, I can ask him if he is!) There's no such thing for me as "You people" or "people like you."
 
 Each time I'm tempted to say, "You think...," "You've claimed...," or "You clearly believe...," I will pause, take a deep breath, and ask myself, "Did he actually make that claim or implication? When?" When in doubt, I'm best of asking a question: "Do you believe...?"
 
@@ -299,7 +299,7 @@ If I realize I haven't done that, I must apologize, even if I'm right in the deb
 
 * * *
 
-##Miscellanious Notes and Tips
+##Miscellaneous Notes and Tips
 
 ###Sarcastic and Biting Phrases I'm Forbidden from Using:
 
